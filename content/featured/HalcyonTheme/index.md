@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'lucidmode'
+title: 'Halcyon Theme'
 cover: './halcyon.png'
 github: 'https://github.com/lucidmode/lucidmode'
 external: 'https://www.lucidmode.org'

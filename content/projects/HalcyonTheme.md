@@ -1,6 +1,6 @@
 ---
 date: '2021-05-15'
-title: 'lucidmode framework'
+title: 'Halcyon Theme'
 cover: './halcyon.png'
 github: 'https://github.com/lucidmode/lucidmode'
 external: 'https://www.lucidmode.org'
