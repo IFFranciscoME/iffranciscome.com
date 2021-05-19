@@ -63,8 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I use data science in DeFi.</h3>;
   const four = (
     <p>
-      Based in Guadalajara, Mexico, I specialize in building proof of concept and production software for the intersection between Artificial Intelligence and Decentralized Finance. Currently I am an Associate Professor at the Mathematics and Physics Department at{' '}
-      <a href="https://iteso.mx/">ITESO University</a> focused on teaching courses for the Financial Engineering .
+      Based in Guadalajara
     </p>
   );
   const five = (
