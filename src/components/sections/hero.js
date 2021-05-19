@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I research about A.I. for DeFi.</h3>;
   const four = (
     <p>
-      I'm a Data Scientist interested in the intersection between Artificial Intelligence and Blockchain technologies for Decentralized Finance. Currently, an Associate Professor in the Department of Mathematics and Physics at{' '} <a href="https://iteso.mx/">ITESO</a> focused on Financial Engineering programm.
+      I'm a Data Scientist interested in the intersection between Artificial Intelligence and Blockchain technologies for Decentralized Finance. Currently, an Associate Professor in the Department of Mathematics and Physics Department at{' '} <a href="https://iteso.mx/">ITESO</a> focused on Financial Engineering programm.
     </p>
   );
   const five = (
