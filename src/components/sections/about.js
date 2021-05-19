@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'R', 'LaTeX', 'AWS', 'Node.js', 'Dash/Shiny'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola!, this is Francisco, Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for Decentralize Finance topics. Also, love to spend time on reading literature about the intersection of Art and Science, like Godel, Escher, Bach: An Eternal Golden Braid (Hofstadter).
+              Hola!, this is Francisco, Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for Decentralize Finance topics. Also, love to spend time on reading literature about the intersection of Art and Science, like Godel, Escher, Bach: An Eternal Golden Braid by Hofstadter.
             </p>
 
             <p>
