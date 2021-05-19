@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-An open-source, low-code and lightweighted Python framework for transparent and interpretable machine learning models. Available on [Github](https://github.com/lucidmode/lucidmode), [Python Package on PyPI](https://pypi.org/project/lucidmode/), [Documentation](https://lucidmode.readthedocs.io/en/latest/), and [website](https://www.lucidmode.org).
+A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
