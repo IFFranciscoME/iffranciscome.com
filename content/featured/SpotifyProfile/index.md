@@ -5,11 +5,11 @@ cover: './tfold.png'
 github: 'http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=732&token=qpqr8op678ps60ropr82880p99p631q3'
 external: 'http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=732&token=qpqr8op678ps60ropr82880p99p631q3'
 tech:
-  - Research
   - Learning Theory
   - Financial ML
-  - CMStatistics
-  - CFENetwork
+  - Python
+  - R
+  - LaTeX
 showInProjects: true
 ---
 
