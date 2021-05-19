@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Course Material'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
