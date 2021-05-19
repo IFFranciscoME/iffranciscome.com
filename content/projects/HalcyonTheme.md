@@ -1,15 +1,15 @@
 ---
-date: '2017-12-27'
-title: 'Halcyon Theme'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '2021-05-15'
+title: 'lucidmode framework'
+cover: './halcyon.png'
+github: 'https://github.com/lucidmode/lucidmode'
+external: 'https://www.lucidmode.org'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python 3.x
+  - Numpy
+  - Rich
+  - Plotly
 showInProjects: false
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+An open-source, low-code and lightweighted Python framework for transparent and interpretable machine learning models. Available on [Github](https://github.com/lucidmode/lucidmode), [Python Package on PyPI](https://pypi.org/project/lucidmode/), [Documentation](https://lucidmode.readthedocs.io/en/latest/), and [website](https://www.lucidmode.org).
