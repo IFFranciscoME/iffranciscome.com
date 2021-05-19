@@ -1,12 +1,15 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2017-08-14'
+title: 'Associate Professor'
+company: 'ITESO'
+location: 'Guadalajara, Mexico'
+range: 'Aug 2017 - Present'
+url: 'https://www.iteso.mx/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+I'm currently an Associate Professor in the Mathematics and Physics Department at ITESO.
+
+- Market microstructure and Trading Systems (Course:MAF1731A)
+- Explainable/Ethical AI (Topic-2/Course:PAP4J05A)
+- Financial Machine Learning (Topic-1/Course:PAP4J05A)
+- Introduction to Decentralized Finance (Topic-3/Course:PAP4J05A)
