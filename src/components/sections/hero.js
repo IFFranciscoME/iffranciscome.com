@@ -60,10 +60,11 @@ const Hero = () => {
 
   const one = <h1>Hola, this is me</h1>;
   const two = <h2 className="big-heading">J. Francisco Munnoz.</h2>;
-  const three = <h3 className="big-heading">I use data science in DeFi.</h3>;
+  const three = <h3 className="big-heading">I research about A.I. for DeFi.</h3>;
   const four = (
     <p>
-      Based in Guadalajara
+      I'm a Data Scientist interested in the intersection between Artificial Intelligence and Blockchain technologies for Decentralized Finance, I do see such as a intersection more on the interesting questions generation than the only response to everything. Currently, I'm an Associate Professor in the Department of Mathematics and Physics at{' '}
+      <a href="https://iteso.mx/">ITESO</a> focused on Financial Engineering programm.
     </p>
   );
   const five = (

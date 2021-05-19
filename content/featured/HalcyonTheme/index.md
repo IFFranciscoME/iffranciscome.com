@@ -2,13 +2,14 @@
 date: '1'
 title: 'Halcyon Theme'
 cover: './halcyon.png'
-github: 'https://github.com/lucidmode/lucidmode'
-external: 'https://www.lucidmode.org'
+github: 'https://github.com/bchiang7/halcyon-site'
+external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - Python 3.x
-  - Numpy
-  - Rich
-  - Plotly
+  - VS Code
+  - Sublime Text
+  - Atom
+  - iTerm2
+  - Hyper
 showInProjects: true
 ---
 

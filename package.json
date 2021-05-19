@@ -1,11 +1,11 @@
 {
-  "name": "v2",
-  "description": "Academic Website V2",
-  "version": "0.2",
-  "author": "J.Francisco Munnoz <if.francisco.me@gmail.com>",
+  "name": "v4",
+  "description": "Personal Website V4",
+  "version": "1.0.0",
+  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://iffranciscome.com"
+    "url": "https://github.com/bchiang7/v4"
   },
   "keywords": [
     "gatsby"
