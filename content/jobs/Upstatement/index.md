@@ -8,7 +8,7 @@ url: 'https://www.iteso.mx/'
 ---
 
 I'm currently an Associate Professor in the Mathematics and Physics Department 
-at{' '} <a href="https://iteso.mx/">ITESO</a>
+at <a href="https://iteso.mx/">ITESO</a>, where I teach courses and seminars on: 
 
 <br>
 

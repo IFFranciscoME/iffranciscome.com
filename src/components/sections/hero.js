@@ -59,7 +59,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hola, this is me</h1>;
-  const two = <h2 className="big-heading">J. Francisco Munnoz.</h2>;
+  const two = <h2 className="big-heading">J. Francisco Munnoz</h2>;
   const three = <h3 className="big-heading">I research about A.I. for DeFi</h3>;
   const four = (
     <p>
