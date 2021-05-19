@@ -7,9 +7,12 @@ external: 'https://lucidmode.org'
 tech:
   - numpy
   - rich
-  - ML/AI
+  - Machine Learning
+  - Statistical Learning
+  - Data Visualization
   - OOP
+  - pypi
 showInProjects: true
 ---
 
-An open-source, low-code and lightweighted Python framework for transparent and interpretable machine learning models.
+An open-source, low-code and lightweighted Python framework for transparent and interpretable machine learning models. It has built in machine learning methods optimized for visual interpretation of some of their most relevant calculations.
