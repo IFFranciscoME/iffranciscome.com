@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'lucidmode framework'
+title: 'lucidmode'
 cover: './halcyon.png'
 github: 'https://github.com/lucidmode/lucidmode'
 external: 'https://www.lucidmode.org'
