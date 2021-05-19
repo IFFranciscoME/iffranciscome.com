@@ -1,15 +1,12 @@
 ---
 date: '3'
-title: 'lucidmode'
+title: 'Python library: lucidmode'
 cover: './lucidmode.png'
 github: 'https://github.com/lucidmode/lucidmode'
 external: 'https://lucidmode.org'
 tech:
   - numpy
   - rich
-  - Machine Learning
-  - Statistical Learning
-  - Data Visualization
   - OOP
   - pypi
 showInProjects: true
