@@ -1,14 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Python Library: superMASS'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/iffranciscome/'
+external: 'https://github.com/iffranciscome/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - rust
+  - numpy
+  - HPC
+  - MASS Algorithm
 showInProjects: true
 ---
 
