@@ -2,15 +2,14 @@
 date: '1'
 title: 'Course Material'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/iffranciscome'
+external: 'https://github.com/iffranciscome'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Financial M.L.
+  - Behavioral Finance
+  - Orderbook
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Market Microstructure and Trading Systems. A financial engineering course focused on behavioral finance, financial machine learning and cryptocurrencies market microstructure.
