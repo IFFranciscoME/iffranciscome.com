@@ -1,9 +1,9 @@
 ---
 date: '3'
 title: 'lucidmode'
-cover: './octoprofile.png'
+cover: './lucidmode.png'
 github: 'https://github.com/lucidmode/lucidmode'
-external: 'https://octoprofile.now.sh'
+external: 'https://lucidmode.org'
 tech:
   - numpy
   - rich
