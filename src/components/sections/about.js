@@ -135,10 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hola! My name is Francisco and I am very passionate about 'connecting the dots' between two
+              of the most profound technologies of our era, Artificial Intelligence and Blockchain, and nevertheless increasing massive applications and solutiosn, I see such technologies more as generators of very interesting questions than the unique solution to everything.
             </p>
 
             <p>

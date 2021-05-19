@@ -58,15 +58,13 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hola, this is me</h1>;
+  const two = <h2 className="big-heading">J. Francisco Munnoz.</h2>;
+  const three = <h3 className="big-heading">I use data science in DeFi.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      Based in Guadalajara, Mexico, I specialize in building proof of concept and production software for the intersection between Artificial Intelligence and Decentralized Finance. Currently I am an Associate Professor at the Mathematics and Physics Department at {' '}
+      <a href="https://iteso.mx/">ITESO University</a> focused on teaching courses for the Financial Engineering.
     </p>
   );
   const five = (
