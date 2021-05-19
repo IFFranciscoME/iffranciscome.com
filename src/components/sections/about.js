@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'R', 'Bash', 'AWS', 'Node.js', 'LaTeX', 'Dash', 'Shiny'];
+  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,12 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola!, Francisco here. I'm a Data Scientist by training and a convergent thinker by conviction, I enjoy connecting the dots and currently doing so between Artificial Intelligence and Blockchain technologies for Decentralize Finance, I'm also an Associate Professor in the Mathematics and Physics Department at ITESO, teaching Financial Engineering and Data Science topics.
+              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2012 when I decided to try editing custom
+              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
+              about HTML &amp; CSS!
             </p>
 
             <p>
-              Fast-forward to today, I've had a great time working on {' '}
-              <a href="https://us.mullenlowe.com/">Founding </a>,{' '}
+              Fast-forward to today, and I've had the privilege of working at{' '}
+              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My

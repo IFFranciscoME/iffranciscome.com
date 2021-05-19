@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Francisco Munnoz',
     description:
-      'Francisco Munnoz is a Data Scientist whos research interests are in Artificial Intelligence and Decentralize Finance.',
+      'Francisco Munnoz is a Data Scientist whos research interests are in Artificial Intelligence and Decentralized Finance.',
     siteUrl: 'https://iffranciscome.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@iffranciscome',
