@@ -7,7 +7,8 @@ range: 'Aug 2017 - Present'
 url: 'https://www.iteso.mx/'
 ---
 
-I'm currently an Associate Professor in the Mathematics and Physics Department at ITESO.
+I'm currently an Associate Professor in the Mathematics and Physics Department 
+at{' '} <a href="https://iteso.mx/">ITESO</a>
 
 <br>
 
