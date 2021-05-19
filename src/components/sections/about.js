@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'R', 'LaTeX', 'AWS', 'Node.js', 'Dash/Shiny'];
+  const skills = ['Python', 'R', 'LaTeX', 'AWS', 'Tensorflow', 'pytorch', 'sci-kit learn', 'Dash/Shiny'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -139,14 +139,11 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, I've had a wide variety of working experience, as techical founder with an early exit with {' '}
+              <a href="https://www.linkedin.com/company/iteralabs">a FinTech Startup</a>, have the priviledge to build grom ground a program for a {' '}
+              <a href="https://fojal.jalisco.gob.mx/">a state development bank</a>, started a research initiative {' '}
+              <a href="https://www.iteracapital.ai/"> in A.I. applied to investments</a>. My
+              main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, and teach at{' '} <a href="https://iteso.mx/">a Top Mexico University</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
