@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'R', 'Bash', 'AWS', 'Node.js', 'LaTeX'];
+  const skills = ['Python', 'R', 'Bash', 'AWS', 'Node.js', 'LaTeX', 'Dash', 'Shiny'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola!, Francisco Munnoz here. I'm a Data Scientist by training and a convergent thinker by conviction, I enjoy connecting the dots and currently doing so between Artificial Intelligence and Blockchain technologies for Decentralize Finance, I'm also an Associate Professor in the <p style="font-style: italic;">Mathematics and Physics Department</p> at ITESO, teaching Financial Engineering and Data Science topics.
+              Hola!, Francisco here. I'm a Data Scientist by training and a convergent thinker by conviction, I enjoy connecting the dots and currently doing so between Artificial Intelligence and Blockchain technologies for Decentralize Finance, I'm also an Associate Professor in the Mathematics and Physics Department at ITESO, teaching Financial Engineering and Data Science topics.
             </p>
 
             <p>
