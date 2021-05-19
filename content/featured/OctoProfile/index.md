@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'lucidmode'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
+github: 'https://github.com/lucidmode/lucidmode'
 external: 'https://octoprofile.now.sh'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - numpy
+  - rich
+  - ML/AI
+  - OOP
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+An open-source, low-code and lightweighted Python framework for transparent and interpretable machine learning models.

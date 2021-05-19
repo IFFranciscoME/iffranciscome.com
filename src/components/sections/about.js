@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'R', 'LaTeX', 'AWS', 'Tensorflow', 'pytorch', 'sci-kit learn', 'Dash/Shiny'];
+  const skills = ['Python', 'R', 'LaTeX', 'AWS', 'Tensorflow', 'Dash/Shiny'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,14 +135,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola!, this is Francisco, Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for Decentralize Finance topics. Also, love to spend time on reading literature about the intersection of Art and Science, like Godel, Escher, Bach: An Eternal Golden Braid by Hofstadter.
+              Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for Decentralize Finance topics. Also, love to spend time on reading literature about the intersection of Art and Science, like Godel, Escher, Bach: An Eternal Golden Braid by Hofstadter.
             </p>
 
             <p>
-              Fast-forward to today, I've had a wide variety of working experience, as techical founder with an early exit with {' '}
-              <a href="https://www.linkedin.com/company/iteralabs">a FinTech Startup</a>, have the priviledge to build grom ground a program for a {' '}
-              <a href="https://fojal.jalisco.gob.mx/">a state development bank</a>, started a research initiative {' '}
-              <a href="https://www.iteracapital.ai/"> in A.I. applied to investments</a>. My
+              I've had a wide variety of working experience, as techical founder with an early exit with {' '}
+              <a href="https://www.linkedin.com/company/iteralabs">a FinTech Startup</a>, have the priviledge to build from ground up a program for in a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a research initiative in {' '}
+              <a href="https://www.iteracapital.ai/"> A.I. for investments</a>. My
               main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, and teach at{' '} <a href="https://iteso.mx/">a Top Mexico University</a>.
             </p>
 
