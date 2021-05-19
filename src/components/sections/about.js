@@ -135,12 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hola !, Francisco Munnoz here, I'm a Data Scientist by training and a convergent thinker by nature, I enjoy connecting the dots and currently doing so between Artificial Intelligence and Blockchain technologies for Decentralize Finance, currently working as an Associate Professor teaching Financial Engineering and Data Science topics. 
+              Hola!, Francisco Munnoz here. I'm a Data Scientist by training and a convergent thinker by conviction, I enjoy connecting the dots and currently doing so between Artificial Intelligence and Blockchain technologies for Decentralize Finance, I'm also an Associate Professor in the <p style="font-style: italic;">Mathematics and Physics Department</p> at ITESO, teaching Financial Engineering and Data Science topics.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
+              Fast-forward to today, I've had a great time working on {' '}
+              <a href="https://us.mullenlowe.com/">Founding </a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
