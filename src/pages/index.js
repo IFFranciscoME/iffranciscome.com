@@ -13,6 +13,7 @@ const IndexPage = ({ location }) => (
       <Hero />
       <About />
       <Featured />
+      <Awards />
       <Jobs />
       <Projects />
       <Contact />
