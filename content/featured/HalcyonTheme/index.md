@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Course Material'
+title: 'Research Poster: Temporal Patterns'
 cover: './halcyon.png'
 github: 'https://github.com/iffranciscome'
 external: 'https://github.com/iffranciscome'
 tech:
   - Python
-  - Financial M.L.
-  - Behavioral Finance
-  - Orderbook
+  - R
+  - MASS
+  - Sequential Clustering
 showInProjects: true
 ---
 
-Market Microstructure and Trading Systems. A financial engineering course focused on behavioral finance, financial machine learning and cryptocurrencies market microstructure.
+Subsequential Time Series Clustering is a technique used to detect temporal patterns formation in time periods on a time series. 
