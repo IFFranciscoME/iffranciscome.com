@@ -240,13 +240,13 @@ const StyledProject = styled.li`
     @media (max-width: 768px) {
       grid-column: 1 / -1;
       height: 100%;
-      
+      opacity: 0.05;
     }
 
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+      background-color: var(--dimgreen);
       border-radius: var(--border-radius);
       vertical-align: middle;
       opacity: 0.95;
