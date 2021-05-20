@@ -244,7 +244,7 @@ const Awards = () => {
 
   return (
     <StyledAwardsSection id="awards" ref={revealContainer}>
-      <h2 className="numbered-heading">Awards</h2>
+      <h2 className="numbered-heading">Grants, Awards and Competitions</h2>
 
       <div className="inner">
         <StyledTabList role="tablist" aria-label="Awards tabs" onKeyDown={e => onKeyDown(e)}>
