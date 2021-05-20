@@ -11,10 +11,6 @@ module.exports = {
       url: 'https://www.instagram.com/iffranciscome',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/iffranciscome',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/iffranciscome',
     },

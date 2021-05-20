@@ -244,10 +244,10 @@ const Awards = () => {
 
   return (
     <StyledAwardsSection id="awards" ref={revealContainer}>
-      <h2 className="numbered-heading">Where I’ve Worked</h2>
+      <h2 className="numbered-heading">Awards</h2>
 
       <div className="inner">
-        <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
+        <StyledTabList role="tablist" aria-label="Awards tabs" onKeyDown={e => onKeyDown(e)}>
           {awardsData &&
             awardsData.map(({ node }, i) => {
               const { company } = node.frontmatter;
