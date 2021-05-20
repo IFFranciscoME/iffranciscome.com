@@ -7,9 +7,13 @@ external: 'https://github.com/iffranciscome'
 tech:
   - Python
   - R
+  - LaTeX
   - MASS
-  - Sequential Clustering
+  - Time Series
+  - Clustering
 showInProjects: true
 ---
 
-Subsequential Time Series Clustering is a technique used to detect temporal patterns formation in time periods on a time series. 
+Subsequential Time Series Clustering for temporal pattern detection in intraday exchange rates,
+ provides evidence to support that there are exogenous trigger events that generate temporal patterns on 
+ exchange rates.
