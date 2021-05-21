@@ -21,7 +21,7 @@ const StyledAboutSection = styled.section`
 const StyledText = styled.div`
   ul.skills-list {
     display: grid;
-    grid-template-columns: repeat(2, minmax(140px, 200px));
+    grid-template-columns: repeat(3, minmax(140px, 200px));
     padding: 0;
     margin: 20px 0 0 0;
     overflow: hidden;
@@ -145,7 +145,7 @@ const About = () => {
               main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, I also teach at{' '} <a href="https://iteso.mx/">a Top Mexico University</a>.
             </p>
 
-            <p>Here are some research interests and a few technologies I've been working with recently:</p>
+            <p>Some research interests and technologies I use:</p>
           </div>
 
           <ul className="skills-list">
