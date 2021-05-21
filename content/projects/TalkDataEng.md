@@ -5,7 +5,7 @@ external: 'https://time-to-have-more-fun.now.sh/'
 tech:
   - Cryptocurrencies
   - Blockchain
-company: ''
+company: 'ITESO'
 showInProjects: true
 ---
 
