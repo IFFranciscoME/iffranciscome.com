@@ -1,6 +1,6 @@
 ---
 date: '2020-11-10'
-title: 'Python Visualization'
+title: 'Project: Python Visualization'
 github: 'https://github.com/IFFranciscoME/p-visualization'
 external: 'https://github.com/IFFranciscoME/p-visualization'
 tech:

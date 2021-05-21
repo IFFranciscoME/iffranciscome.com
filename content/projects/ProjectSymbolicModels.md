@@ -1,6 +1,6 @@
 ---
 date: '2021-02-02'
-title: 'Symbolic Linear Models'
+title: 'Project: Symbolic Linear Models'
 github: 'https://github.com/'
 external: 'https://github.com/'
 tech:
@@ -9,3 +9,5 @@ tech:
   - Linear Models
 showInProjects: true
 ---
+
+Genetic Programming for Feature Engineering for Linear Models

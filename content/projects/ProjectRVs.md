@@ -1,6 +1,6 @@
 ---
 date: '2020-11-10'
-title: 'R Visualization'
+title: 'Project: R Visualization'
 github: 'https://github.com/IFFranciscoME/r-visualization'
 external: 'https://github.com/IFFranciscoME/r-visualization'
 tech:
