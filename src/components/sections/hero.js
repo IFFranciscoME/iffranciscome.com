@@ -12,7 +12,7 @@ const StyledHeroSection = styled.section`
   min-height: 100vh;
   padding: 0;
 
-  @media (max-width: 680px) and (min-height: 700px) {
+  @media (max-width: 940px) and (min-height: 700px) {
     padding-bottom: 10vh;
   }
 
@@ -23,7 +23,7 @@ const StyledHeroSection = styled.section`
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
 
-    @media (max-width: 680px) {
+    @media (max-width: 940px) {
       margin: 0 0 20px 2px;
     }
   }
@@ -36,7 +36,7 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 680px;
+    max-width: 940px;
   }
 
   .email-link {
@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading"> Researcher in M.L. & DeFi  </h3>;
   const four = (
     <p>
-      I'm a Data Scientist interested in the intersection between Machine Learning and Blockchain technologies for Decentralize Finance. Currently, an Associate Professor in the Department of Mathematics and Physics Department at{' '} <a href="https://iteso.mx/">ITESO</a>
+      I'm a Data Scientist interested in the intersection between Machine Learning and Blockchain technologies for Decentralize Finance. Currently, an Associate Professor at{' '} <a href="https://iteso.mx/">ITESO</a> in the Department of Mathematics and Physics.
     </p>
   );
   const five = (

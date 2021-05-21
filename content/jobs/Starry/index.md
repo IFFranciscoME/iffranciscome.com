@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2020-05-21'
+title: 'Technical Co-founder'
+company: 'Itera Labs'
+range: 'May 2018 - May 2020'
+url: 'https://www.linkedin.com/company/iteralabs'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Got an exit by selling the technology to a university social business simulator.
+- Startup valuation algorithm with montecarlo simulation implemented in AWS distributed infrastructure.
+- Follow up grant award by the National Council of Science and Technology (CONACYT) through the Binational Nodes for Innovation programm.
+- 2nd place in Inc Crowded Festival 2018 / Regional Startup competition organized by ITESM - Guadalajara Campus.
