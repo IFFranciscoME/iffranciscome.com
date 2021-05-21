@@ -8,7 +8,7 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAwardsSection = styled.section`
-  max-width: 1080px;
+  max-width: 940px;
 
   .inner {
     display: flex;
