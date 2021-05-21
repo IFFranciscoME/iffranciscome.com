@@ -7,7 +7,7 @@ tech:
   - Python
   - Genetic Programming
   - Genetic Algorithms
-company: 'Software Guru / DataDays2021'
+company: 'Software Guru - DataDays2021'
 showInProjects: true
 ---
 
