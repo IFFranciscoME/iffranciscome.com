@@ -5,8 +5,8 @@ github: 'https://github.com/iffranciscome/'
 external: 'https://github.com/iffranciscome/'
 tech:
   - R
-  - LaTeX
-  - KnitR
+  - iOS
+  - Android
 showInProjects: true
 ---
 
