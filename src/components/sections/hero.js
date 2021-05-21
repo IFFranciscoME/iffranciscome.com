@@ -12,7 +12,7 @@ const StyledHeroSection = styled.section`
   min-height: 100vh;
   padding: 0;
 
-  @media (max-width: 940px) and (min-height: 700px) {
+  @media (max-width: 840px) and (min-height: 700px) {
     padding-bottom: 10vh;
   }
 
@@ -23,7 +23,7 @@ const StyledHeroSection = styled.section`
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
 
-    @media (max-width: 940px) {
+    @media (max-width: 840px) {
       margin: 0 0 20px 2px;
     }
   }
@@ -36,7 +36,7 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 940px;
+    max-width: 840px;
   }
 
   .email-link {
