@@ -6,6 +6,8 @@ external: 'http://bchiang7.github.io/fontipsums/'
 tech:
   - HTML
   - SCSS
+  - ios
+  - android
 showInProjects: true
 ---
 
