@@ -5,8 +5,9 @@ company: 'A Radical Change'
 range: 'May 2013 - May 2015'
 ---
 
-About 10 years ago, at 25, I decided to go back to my technical foundations, and stopped my career in commercial 
-financial services to persuit an Engineering degree (best decision ever), so other relevant positions I've had in not so recent times: 
+About 10 years ago, I decided to go back to my technical foundations, so I stopped my career in commercial 
+financial services to persuit an Engineering degree keeping the finance approach (best decision ever). In that
+previous life, other relevant positions I've had in not so recent times: 
 
 - Financial Planner at Old Mutual 
 - Commercial Banker at Citi
