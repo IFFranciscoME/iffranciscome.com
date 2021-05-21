@@ -1,14 +1,12 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
+date: '2020-11-06'
+title: 'Talk: Data Science & Engineering'
 external: 'https://time-to-have-more-fun.now.sh/'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Cryptocurrencies
+  - Blockchain
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Talk for the first year students, about data science and engineering in the context of cryptocurrencies. 

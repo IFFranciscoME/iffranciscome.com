@@ -7,6 +7,7 @@ tech:
   - Elon musk
   - Innovation
   - Scientific Method
+company: 'ITESO University'
 showInProjects: true
 ---
 
