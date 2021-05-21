@@ -6,7 +6,9 @@ range: 'May 2018 - May 2020'
 url: 'https://www.linkedin.com/company/iteralabs'
 ---
 
+We started this to solve Startup valuation in seed stage, with an algorithm with montecarlo simulation and
+bayes sampling all implemented in AWS distributed infrastructure. We have a terrific time and I certainly learned
+a lot of the practical side of data science and machine learning, the main highlights are:
+
 - Got an exit by selling the technology to a university social business simulator.
-- Startup valuation algorithm with montecarlo simulation implemented in AWS distributed infrastructure.
 - Follow up grant award by the National Council of Science and Technology (CONACYT) through the Binational Nodes for Innovation programm.
-- 2nd place in Inc Crowded Festival 2018 / Regional Startup competition organized by ITESM - Guadalajara Campus.

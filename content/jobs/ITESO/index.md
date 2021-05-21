@@ -8,7 +8,8 @@ url: 'https://www.iteso.mx/'
 ---
 
 I'm currently an Associate Professor in the Mathematics and Physics Department 
-at <a href="https://iteso.mx/">ITESO</a>, where I teach courses and seminars on: 
+at <a href="https://iteso.mx/">ITESO</a>. One of my activities is research about Financial Machine Learning, 
+Explainable/Ethical Machine Learning Models, and most recently Decentralize Finance. Also I teach regular courses and research seminars on: 
 
 <br>
 
