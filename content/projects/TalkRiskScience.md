@@ -8,7 +8,7 @@ tech:
   - Innovation
   - Scientific Method
 company: 'ITESO University'
-showInProjects: false
+showInProjects: true
 ---
 
 A talk about the roll of risk in science from entreprenurship perspective.

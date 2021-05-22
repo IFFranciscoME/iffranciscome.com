@@ -7,7 +7,7 @@ tech:
   - Cryptocurrencies
   - Blockchain
 company: 'ITESO'
-showInProjects: false
+showInProjects: true
 ---
 
 Talk for the first year students, about data science and engineering in the context of cryptocurrencies. 

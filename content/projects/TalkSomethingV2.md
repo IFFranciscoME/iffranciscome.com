@@ -9,7 +9,7 @@ tech:
   - R
   - iOS
   - Android
-showInProjects: true
+showInProjects: false
 ---
 
 LaTeX and R framework for research poster
