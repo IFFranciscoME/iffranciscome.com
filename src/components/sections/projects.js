@@ -27,7 +27,7 @@ const StyledProjectsSection = styled.section`
   .projects-grid {
     ${({ theme }) => theme.mixins.resetList};
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
     grid-gap: 15px;
     position: relative;
     margin-top: 50px;
@@ -99,15 +99,15 @@ const StyledProject = styled.li`
 
         &.external {
           svg {
-            width: 22px;
-            height: 22px;
+            width: 25px;
+            height: 25px;
             margin-top: -4px;
           }
         }
 
         svg {
-          width: 20px;
-          height: 20px;
+          width: 25px;
+          height: 25px;
         }
       }
     }
