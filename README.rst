@@ -25,12 +25,12 @@ Notes and ideas
 - Fun fact: I'm still processing a couple of pages I read from Gödel, Escher, Bach: an Eternal Golden Braid. Hofstadter.
 
 -------------
-About Webpage
+Personal Site
 -------------
 
 |
 
-.. image:: https://raw.githubusercontent.com/iffranciscome/iffranciscome.com/tree/main/src/images/website.png
+.. image:: https://github.com/IFFranciscoME/iffranciscome.com/blob/main/src/images/website.png
         :align: center
 
 |
@@ -53,9 +53,7 @@ You are free to fork this repo and to modify it as you like, however, the modifi
 License
 -------
 
-**GNU General Public License v3.0** 
-
-*Permissions of this strong copyleft license are conditioned on making available 
+*GNU General Public License v3.0:: Permissions of this strong copyleft license are conditioned on making available 
 complete source code of licensed works and modifications, which include larger 
 works using a licensed work, under the same license. Copyright and license notices 
 must be preserved. Contributors provide an express grant of patent rights.*
