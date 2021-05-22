@@ -30,10 +30,24 @@ Personal Site
 
 |
 
-.. image:: https://github.com/IFFranciscoME/iffranciscome.com/blob/main/src/images/website.png
-        :align: center
+.. |logo1| image:: src/images/website_1.png    
+   :scale: 50%
+   :align: middle
+.. |logo2| image:: src/images/website_2.png
+   :scale: 50%
+   :align: middle
+.. |logo3| image:: src/images/website_3.png
+   :scale: 50%
+   :align: middle
+.. |logo4| image:: src/images/website_4.png
+   :scale: 50%
+   :align: middle
 
-|
++---------+---------+
+| |logo1| | |logo2| |
++---------+---------+
+| |logo3| | |logo4| |
++---------+---------+
 
 Credit
 ------
