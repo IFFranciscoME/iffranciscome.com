@@ -141,8 +141,7 @@ const About = () => {
             <p>
               I've had a lot of Startup experience like being a techical founder with an early exit with {' '}
               <a href="https://www.linkedin.com/company/iteralabs">a FinTech Startup</a>. Had the priviledge to build from ground up a program for in a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a research initiative in {' '}
-              <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I got awards in research competitions. My
-              main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, I also teach at{' '} <a href="https://iteso.mx/">a Top Mexico University</a>.
+              <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I got awards in research competitions. My main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, I also teach at{' '} <a href="https://iteso.mx/">a Top Mexico University</a>.
             </p>
 
             <p>Some research interests and technologies I use:</p>
