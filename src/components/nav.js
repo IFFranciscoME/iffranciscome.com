@@ -162,11 +162,11 @@ const Nav = ({ isHome }) => {
     <div className="logo" tabIndex="-1">
       {isHome ? (
         <a href="/" aria-label="home">
-          <IconLogo />
+          
         </a>
       ) : (
         <Link to="/" aria-label="home">
-          <IconLogo />
+          
         </Link>
       )}
     </div>
