@@ -7,16 +7,8 @@ module.exports = {
       url: 'https://github.com/iffranciscome',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/iffranciscome',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/iffranciscome',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/iffranciscome',
     },
   ],
 
