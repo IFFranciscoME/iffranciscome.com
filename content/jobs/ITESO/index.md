@@ -8,7 +8,7 @@ url: 'https://www.iteso.mx/'
 ---
 
 One of my activities is research about Financial Machine Learning, Explainable/Ethical ML,
- and most recently Decentralize Finance. Also I teach regular courses and research seminars on: 
+ and most recently [Decentralized Finance](https://ethereum.org/en/defi/). Also I teach regular courses and research seminars on: 
 
 <br>
 

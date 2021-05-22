@@ -135,13 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Financial Engineer & Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for Decentralize Finance topics. Also, love to spend time on reading literature about the intersection of Art and Science, like Godel, Escher, Bach: An Eternal Golden Braid by Hofstadter.
+              Financial Engineer & Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for Decentralize Finance topics. Also, love to spend time on reading literature about the intersection of Art and Science, like [Godel, Escher, Bach: An Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Hofstadter.
             </p>
 
             <p>
-              I've had a lot of Startup experience like being a techical founder with an early exit with {' '}
-              <a href="https://www.linkedin.com/company/iteralabs">a FinTech Startup</a>. Had the priviledge to build from ground up a program for in a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a research initiative in {' '}
-              <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I got awards in research competitions. My main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, I also teach at{' '} <a href="https://iteso.mx/">a Top Mexico University</a>.
+              I've had a lot of Startup experience like being a techical founder with an early exit with a {' '} <a href="https://www.linkedin.com/company/iteralabs">FinTech Startup</a>. Had the priviledge to build from ground up a program for in a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a research initiative in {' '}
+              <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I've gotten an award in a research competition. My main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, and to teach at one of Mexico's {' '} <a href="https://iteso.mx/">Top Universities</a>.
             </p>
 
             <p>Some research interests and technologies I use:</p>
