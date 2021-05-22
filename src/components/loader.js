@@ -57,7 +57,7 @@ const Loader = ({ finishLoading }) => {
         delay: 500,
         duration: 300,
         easing: 'easeInOutQuart',
-        opacity: 0,
+        opacity: 1,
         scale: 0.1,
       })
       .add({
