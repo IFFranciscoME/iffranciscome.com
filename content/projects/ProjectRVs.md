@@ -8,7 +8,7 @@ tech:
   - Plotly
   - ggplot2
   - Jupyter
-showInProjects: true
+showInProjects: false
 ---
 
 R data visualization using ggplot2, plotly graph and express
