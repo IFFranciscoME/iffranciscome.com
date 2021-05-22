@@ -100,15 +100,15 @@ const StyledProject = styled.li`
 
         &.external {
           svg {
-            width: 25px;
-            height: 25px;
+            width: 20px;
+            height: 20px;
             margin-top: -4px;
           }
         }
 
         svg {
-          width: 25px;
-          height: 25px;
+          width: 20px;
+          height: 20px;
         }
       }
     }
@@ -206,7 +206,7 @@ const Projects = () => {
     revealProjects.current.forEach((ref, i) => sr.reveal(ref, srConfig(i * 100)));
   }, []);
 
-  const GRID_LIMIT = 9;
+  const GRID_LIMIT = 6;
   const projects = data.projects.edges.filter(({ node }) => node);
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
