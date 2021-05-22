@@ -32,7 +32,7 @@ const StyledProjectsSection = styled.section`
     position: relative;
     margin-top: 50px;
 
-    @media (max-width: 1080px) {
+    @media (max-width: 940px) {
       grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
   }
