@@ -82,8 +82,8 @@ const StyledProject = styled.li`
     .folder {
       color: var(--green);
       svg {
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
       }
     }
 
@@ -205,7 +205,7 @@ const Projects = () => {
     revealProjects.current.forEach((ref, i) => sr.reveal(ref, srConfig(i * 100)));
   }, []);
 
-  const GRID_LIMIT = 6;
+  const GRID_LIMIT = 9;
   const projects = data.projects.edges.filter(({ node }) => node);
   const firstSix = projects.slice(0, GRID_LIMIT);
   const projectsToShow = showMore ? projects : firstSix;
@@ -278,7 +278,7 @@ const Projects = () => {
                 <CSSTransition
                   key={i}
                   classNames="fadeup"
-                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 300 : 300}
+                  timeout={i >= GRID_LIMIT ? (i - GRID_LIMIT) * 350 : 350}
                   exit={false}>
                   <StyledProject
                     key={i}
