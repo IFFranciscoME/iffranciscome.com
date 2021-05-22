@@ -5,7 +5,7 @@ github: 'https://github.com/'
 external: 'https://github.com/'
 tech:
   - Python
-  - Genetic Programming
+  - Genetic Methods
   - Linear Models
 showInProjects: true
 ---

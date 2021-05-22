@@ -5,8 +5,7 @@ github: 'https://github.com/iffranciscome/genetic-finance'
 external: 'https://sg.com.mx/datadays/speakers/francisco-munoz/'
 tech:
   - Python
-  - Genetic Programming
-  - Genetic Algorithms
+  - Genetic Methods
 company: 'Data Days 2021'
 showInProjects: true
 ---
