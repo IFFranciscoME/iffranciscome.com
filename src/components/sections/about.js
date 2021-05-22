@@ -125,7 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Interpretable AI', 'Financial ML', 'Distributed ML', 'Python', 'R', 'LaTeX', 'AWS', 'Tensorflow', 'DeFi'];
+  const skills = ['Python', 'Financial ML', 'Solidity', 'Go', 'Smart Contracts', 'AWS', 'Tensorflow',
+                  'Explainable A.I.', 'LaTeX'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,11 +136,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Financial Engineer & Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for {' '} <a href="https://ethereum.org/en/defi/">Decentralized Finance</a> topics. Also, love to spend time on reading literature about the intersection of Art and Science, like {' '} <a href="https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach">Godel, Escher, Bach: An Eternal Golden Braid</a> by Hofstadter.
+              Financial Engineer & Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for {' '} <a href="https://ethereum.org/en/defi/">Decentralized Finance</a> topics.
             </p>
             <p>
-              I've had a lot of Startup experience like being a techical founder with an early exit with a {' '} <a href="https://www.linkedin.com/company/iteralabs">FinTech Startup</a>. Had the priviledge to build from ground up a program for in a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a research initiative in {' '}
-              <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I've gotten an award in a research competition. My main focus these days is to develop experimental technologies for A.I. and Blockchain technologies, and to teach at one of Mexico's {' '} <a href="https://iteso.mx/">Top Universities</a>.
+              I've been a techical founder with an early exit with a {' '} <a href="https://www.linkedin.com/company/iteralabs">FinTech Startup</a>. Built from ground up a program for a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a research initiative in {' '} <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I've gotten an award in a research competition. Currently my focus is to research and develop in the space of DeFi, and to teach at one of Mexico's {' '} <a href="https://iteso.mx/">Top Universities</a>.
             </p>
 
             <p>Some research interests and technologies I use:</p>
