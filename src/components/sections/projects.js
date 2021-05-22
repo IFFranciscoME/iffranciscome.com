@@ -27,13 +27,13 @@ const StyledProjectsSection = styled.section`
   .projects-grid {
     ${({ theme }) => theme.mixins.resetList};
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
     grid-gap: 15px;
     position: relative;
     margin-top: 50px;
 
-    @media (max-width: 1100px) {
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    @media (max-width: 800px) {
+      grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
     }
   }
 
