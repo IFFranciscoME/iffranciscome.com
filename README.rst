@@ -41,7 +41,7 @@ a new menu option, headings sizes, and mainly the green by a blue color.
 
 |
 
-.. image:: /static/screenshots/website.png
+.. image:: static/screenshots/website.png
    :align: center
 
 |
@@ -50,27 +50,24 @@ Other changes in overall width, color filter and of course, content.
 
 |
 
-.. |logo-1| image:: /static/screenshots/website_1.png
+.. |logo1| image:: static/screenshots/website_1.png    
    :scale: 50%
-   :align: center
+   :align: middle
+.. |logo2| image:: static/screenshots/website_2.png
+   :scale: 50%
+   :align: middle
+.. |logo3| image:: static/screenshots/website_3.png
+   :scale: 50%
+   :align: middle
+.. |logo4| image:: static/screenshots/website_4.png
+   :scale: 50%
+   :align: middle
 
-.. |logo-2| image:: /static/screenshots/website_2.png
-      :scale: 50%
-      :align: center
-
-.. |logo-3| image:: /static/screenshots/website_3.png
-      :scale: 50%
-      :align: center
-
-.. |logo-4| image:: /static/screenshots/website_4.png
-      :scale: 50%
-      :align: center
-
-+----------+----------+
-| |logo-1| | |logo-2| |
-+----------+----------+
-| |logo-3| | |logo-4| |
-+----------+----------+
++---------+---------+
+| |logo1| | |logo2| |
++---------+---------+
+| |logo3| | |logo4| |
++---------+---------+
 
 
 Modifications
