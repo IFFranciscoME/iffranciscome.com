@@ -59,6 +59,7 @@ const StyledPic = styled.div`
     display: block;
     position: relative;
     width: 100%;
+    opacity: 0.70;
     border-radius: var(--border-radius);
     background-color: var(--green);
 
@@ -155,7 +156,7 @@ const About = () => {
             <StaticImage
               className="img"
               src="../../images/me.jpg"
-              width={500}
+              width={6500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
