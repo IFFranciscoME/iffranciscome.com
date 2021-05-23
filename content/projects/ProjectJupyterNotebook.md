@@ -1,8 +1,8 @@
 ---
 date: '2020-03-01'
 title: 'Project: Jupyter Notebook'
-github: 'https://github.com/IFFranciscoME/python_project'
-external: 'https://github.com/IFFranciscoME/python_project'
+github: 'https://github.com/iffranciscome/'
+external: 'https://github.com/iffranciscome/'
 tech:
   - Python
   - Jupyter

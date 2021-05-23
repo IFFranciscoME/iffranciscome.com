@@ -1,7 +1,8 @@
 ---
 date: '2020-11-06'
 title: 'Talk: Data Science & Engineering'
-external: 'https://time-to-have-more-fun.now.sh/'
+github: 'https://github.com/iffranciscome/'
+external: 'https://github.com/iffranciscome/'
 tech:
   - Cryptocurrencies
   - Blockchain

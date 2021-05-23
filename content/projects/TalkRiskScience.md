@@ -1,7 +1,7 @@
 ---
 date: '2018-10-29'
 title: 'Talk: Science in innovation'
-external: 'https://bit.ly/talk_science'
+external: 'https://github.com/iffranciscome/'
 tech:
   - Nobel 2017 
   - Elon musk

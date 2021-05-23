@@ -1,8 +1,8 @@
 ---
 date: '2021-02-02'
 title: 'Project: Symbolic Linear Models'
-github: 'https://github.com/'
-external: 'https://github.com/'
+github: 'https://github.com/iffranciscome/'
+external: 'https://github.com/iffranciscome/'
 tech:
   - Python
   - Genetic Methods

@@ -1,8 +1,8 @@
 ---
 date: '2020-11-10'
 title: 'Project: R Visualization'
-github: 'https://github.com/IFFranciscoME/r-visualization'
-external: 'https://github.com/IFFranciscoME/r-visualization'
+github: 'https://github.com/iffranciscome/'
+external: 'https://github.com/iffranciscome/'
 tech:
   - R
   - Plotly

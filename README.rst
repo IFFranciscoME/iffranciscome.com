@@ -32,16 +32,16 @@ Personal Site
 
 .. |logo1| image:: src/images/website_1.png    
    :scale: 50%
-   :align: middle
+   :align: center
 .. |logo2| image:: src/images/website_2.png
    :scale: 50%
-   :align: middle
+   :align: center
 .. |logo3| image:: src/images/website_3.png
    :scale: 50%
-   :align: middle
+   :align: center
 .. |logo4| image:: src/images/website_4.png
    :scale: 50%
-   :align: middle
+   :align: center
 
 +---------+---------+
 | |logo1| | |logo2| |

@@ -1,8 +1,8 @@
 ---
 date: '2020-11-10'
 title: 'Project: Python Visualization'
-github: 'https://github.com/IFFranciscoME/p-visualization'
-external: 'https://github.com/IFFranciscoME/p-visualization'
+github: 'https://github.com/iffranciscome/'
+external: 'https://github.com/iffranciscome/'
 tech:
   - Python
   - Plotly
