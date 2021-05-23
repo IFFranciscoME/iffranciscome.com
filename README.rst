@@ -28,31 +28,50 @@ Notes and ideas
 Personal Site
 -------------
 
-|
-
-.. |logo1| image:: src/images/website_1.png    
-   :scale: 50%
-   :align: center
-.. |logo2| image:: src/images/website_2.png
-   :scale: 50%
-   :align: center
-.. |logo3| image:: src/images/website_3.png
-   :scale: 50%
-   :align: center
-.. |logo4| image:: src/images/website_4.png
-   :scale: 50%
-   :align: center
-
-+---------+---------+
-| |logo1| | |logo2| |
-+---------+---------+
-| |logo3| | |logo4| |
-+---------+---------+
-
 Credit
 ------
 
 This website was built thanks to the brilliant work of `Brittany Chiang <https://github.com/bchiang7>`_ and the 4th iteration of her `personal website <https://github.com/bchiang7/v4>`_, which she kindly shared with the community in opensource. I wanted to start kind of fresh so I didn't forked but you can check hers and use maybe some mods as included in my version. Naturally, you can take this version also to modify what you want, just give credit to her. 
+
+This version
+------------
+
+Here are some screenshots of the final version. From the main page I choose to change width of text,
+a new menu option, headings sizes, and mainly the green by a blue color.
+
+|
+
+.. image:: /static/screenshots/website.png
+   :align: center
+
+|
+
+Other changes in overall width, color filter and of course, content.
+
+|
+
+.. |logo-1| image:: /static/screenshots/website_1.png
+   :scale: 50%
+   :align: center
+
+.. |logo-2| image:: /static/screenshots/website_2.png
+      :scale: 50%
+      :align: center
+
+.. |logo-3| image:: /static/screenshots/website_3.png
+      :scale: 50%
+      :align: center
+
+.. |logo-4| image:: /static/screenshots/website_4.png
+      :scale: 50%
+      :align: center
+
++----------+----------+
+| |logo-1| | |logo-2| |
++----------+----------+
+| |logo-3| | |logo-4| |
++----------+----------+
+
 
 Modifications
 -------------
