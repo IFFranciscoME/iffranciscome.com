@@ -249,7 +249,7 @@ const StyledProject = styled.li`
       background-color: var(--green);
       border-radius: var(--border-radius);
       vertical-align: middle;
-      opacity: 0.95;
+      opacity: 0.15;
 
       &:hover,
       &:focus {
