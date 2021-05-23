@@ -240,16 +240,16 @@ const StyledProject = styled.li`
     @media (max-width: 768px) {
       grid-column: 1 / -1;
       height: 100%;
-      opacity: 0.25;
+      opacity: 0.75;
     }
 
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--dimgreen);
+      background-color: var(--green);
       border-radius: var(--border-radius);
       vertical-align: middle;
-      opacity: 0.50;
+      opacity: 0.95;
 
       &:hover,
       &:focus {
