@@ -116,7 +116,7 @@ const StyledProject = styled.li`
   }
 
   .project-overline {
-    margin: 10px 0;
+    margin: 20px 0;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
@@ -246,7 +246,7 @@ const StyledProject = styled.li`
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--dimgreen);
+      background-color: var(--green-light);
       border-radius: var(--border-radius);
       vertical-align: middle;
 
