@@ -9,4 +9,4 @@ url: 'https://www.linkedin.com/company/tradingpal/about/'
 - Machine Learning for online prediction of Financial Time Series.
 - Cloud Computing (AWS) Optimize/Deploy/Monitor of Algorithmic Trading Systems.
 - Monitoring dashboard R + Linux + SQL + AWS.
-- Technical lead of insite and remote team.
+- Technical lead of the onsite and remote team.

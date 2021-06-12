@@ -2,7 +2,7 @@
 date: '2020-05-21'
 title: 'Technical Co-founder'
 company: 'Itera Labs'
-range: 'May 2018 - May 2020'
+range: 'Jan 2018 - May 2020'
 url: 'https://www.linkedin.com/company/iteralabs'
 ---
 

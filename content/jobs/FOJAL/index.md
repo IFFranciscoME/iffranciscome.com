@@ -1,11 +1,11 @@
 ---
-date: '2018-12-01'
-title: 'Business Consultant & Data Scientist'
+date: '2017-12-01'
+title: 'Data Scientist'
 company: 'FOJAL'
-range: 'April - December 2018'
-url: 'http://fojal.jalisco.gob.mx/'
+range: 'Jul - December 2017'
 ---
 
-- Mathematical modeling for startup programm, inspired in Cellular Manufacturing
-- Data science and analytics for SMB credit model
-- Workshop on Scientific Method for Startup Innovation
+Worked as a contract for this AdTech Startup
+
+- WebScrap / Manual / REST API data engineering.
+- Analytics / Predictive models dashboard with R and Python.

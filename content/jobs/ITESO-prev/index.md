@@ -1,12 +1,14 @@
 ---
-date: '2015-01-17'
-title: 'Research Intern'
+date: '2014-01-17'
+title: 'Junior Researcher'
 company: 'ITESO'
 location: 'Guadalajara, Mexico'
-range: 'Ene 2015 - Dec 2015'
+range: 'Jan 2014 - Dec 2014'
 url: 'https://www.iteso.mx/'
 ---
 
-Research internship in the Mathematics and Physics Department. My activities were to develop codes and tools
-for financial process simulation, time series analysis, and computational finance for derivatives. Also I 
-functioned as technical advisor for an undergraduate research training programm.
+Undergraduate intern for research and development at Mathematics and Physics Department at ITESO.
+
+- Learned Machine learning with parallel computing and achieve an improvement of speed by 300%
+- Developed connection to several data sources, structured and unstructured, for financial analysis.
+- Improved presentation skills in workshops in statistical programming for academic courses.
