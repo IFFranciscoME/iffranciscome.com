@@ -8,12 +8,11 @@ url: 'https://www.iteso.mx/'
 ---
 
 Associate Professor for the course Microstructure and Trading Systems,
- research about Financial Machine Learning and Decentralized Finance:
+ and researcher about Financial Machine Learning and Decentralized Finance:
 
 <br>
 
-- Course for the degree B.Eng Financial Engineering.
 - Design, document, teach, and constantly update technical material.
-- Research about Financial Machine Learning for Trading Systems.
-- Mathematical Models with Behavioral Finance for Investment Decisions.
-- Market Microstructure Models (Blockchain-Based Digital Assets).
+- Research: Financial Machine Learning for Trading Systems and DeFi applications.
+- Research: Mathematical Models with Behavioral Finance for Investment Decisions.
+- Research: Market Microstructure Models (Blockchain-Based Digital Assets).
