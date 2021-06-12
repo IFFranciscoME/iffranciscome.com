@@ -7,12 +7,13 @@ range: 'Aug 2017 - Present'
 url: 'https://www.iteso.mx/'
 ---
 
-One of my activities is research about Financial Machine Learning, Explainable/Ethical ML,
- and most recently [Decentralized Finance](https://ethereum.org/en/defi/). Also I teach regular courses and research seminars on: 
+Associate Professor for the course Microstructure and Trading Systems,
+ research about Financial Machine Learning and Decentralized Finance:
 
 <br>
 
-- Market microstructure and Trading Systems (Course:MAF1731A)
-- Explainable/Ethical AI (Topic-2/Course:PAP4J05A)
-- Financial Machine Learning (Topic-1/Course:PAP4J05A)
-- Introduction to Decentralized Finance (Topic-3/Course:PAP4J05A)
+- Course for the degree B.Eng Financial Engineering.
+- Design, document, teach, and constantly update technical material.
+- Research about Financial Machine Learning for Trading Systems.
+- Mathematical Models with Behavioral Finance for Investment Decisions.
+- Market Microstructure Models (Blockchain-Based Digital Assets).

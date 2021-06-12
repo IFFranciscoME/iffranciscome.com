@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python/R/Go', 'Solidity/TEAL', 'Linux/Git', 'AWS/Docker', 'Tensorflow', 'PyTorch',
+  const skills = ['Python/R', 'Go/Rust', 'Solidity/TEAL', 'Linux/Git', 'AWS/Docker', 'TensorFlow/PyTorch',
                   'Jupyter/Colab', 'LaTeX/rst', 'SQL/JSON'];
 
   return (
@@ -139,7 +139,7 @@ const About = () => {
               Financial Engineer & Data Scientist by training, convergent thinker by nature. I enjoy working on connecting the dots between Artificial Intelligence and Blockchain technologies for {' '} <a href="https://ethereum.org/en/defi/">Decentralized Finance</a> topics.
             </p>
             <p>
-            I've been a technical founder with an early exit with a {' '} <a href="https://www.linkedin.com/company/iteralabs">FinTech Startup</a>. Built from the ground up a program for a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a freelance research & //& Development initiative in {' '} <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I've gotten an award in a research competition, and completed 3 from small to medium size and complexity Financial Machine Learning projects. My current focus is to research and develop in the space of DeFi, and to teach at one of Mexico's {' '} <a href="https://iteso.mx/">Top Universities</a>.
+            I've been a technical founder with an early exit with a {' '} <a href="https://www.linkedin.com/company/iteralabs">FinTech Startup</a>. Built from the ground up a program for a {' '} <a href="https://fojal.jalisco.gob.mx/">state development bank</a>, started a freelance research & //& Development initiative in {' '} <a href="https://www.iteracapital.ai/"> A.I. for investments</a> with which I've gotten an award in a research competition, and completed 3 from small to medium size and complexity Financial Machine Learning projects. My current focus is to research and develop in the space of DeFi mainly in {''} <a href="https://community.algorand.org/u/m82mth/#/about">AlgoRand</a>, and to teach at one of Mexico's {' '} <a href="https://iteso.mx/">Top Universities</a>.
             </p>
 
             <p>Some technologies I use:</p>

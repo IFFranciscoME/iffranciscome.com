@@ -1,7 +1,7 @@
 ---
 date: '2020-08-01'
 title: 'Machine Learning Researcher'
-company: 'Itera Capital'
+company: 'IteraCapital.ai'
 range: 'Aug 2020 - Present'
 url: 'https://iteracapital.ai'
 ---
@@ -11,6 +11,6 @@ Iteracapital.ai is a self managed initiative for research with Artificial Intell
 
 <br>
 
-- Design, optimization, and backtest of trading systems.
-- Predictive models with Artificial Intelligence.
-- Subsequential financial time series clustering.
+- Design, Programm, Optimize, Backtest, Deploy and Monitor A.I-based Trading Systems.
+- Academic Research and Industry Implementation in Financial Machine Learning.
+- R&D DeFi with AlgoRand and Ethereum blockchains.
